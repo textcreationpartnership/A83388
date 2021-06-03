@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for tryall of the King ... With the proceedings of the High Court of Justice against him. Also an Act of the House of Commons for further prosecution against the King : Die Martis 9 Januar. 1648 ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83388</idno><idno type="EEBO-CITATION">50805877</idno>
+  <idno type="VID">164864</idno>
+  <idno type="EEBO-PROQUEST">2248532189</idno>
+  
+            <idno type="STC">Wing E2195</idno>
+            <idno type="STC">Thomason E537_34</idno>
+            <idno type="OCLC">50805877</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for tryall of the King ... With the proceedings of the High Court of Justice against him. Also an Act of the House of Commons for further prosecution against the King : Die Martis 9 Januar. 1648 ...</title>
+                  <author>Great Britain. Parliament, 1648. House of Commons.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Ibbitson, ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date given according to Lady Day dating.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Trials, litigation, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164864:1"/>
+            <p>A Proclamation For Tryall of the KING. Proclaimed By sound of Trumpets and Drums, in <hi>Westminster Hall,</hi> at the <hi>Exchange,</hi> and in <hi>Cheapside.</hi> VVith the Proceedings of the High Court of Justice against him. ALSO An <hi>ACT</hi> of the House of <hi>Commons</hi> for further prosecution against the KING:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis 9 Januar. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdred by the Commons assembled in Parliament, that the same Pro<g ref="char:EOLhyphen"/>clamation that was made this morning, touching the Tryall of the King, be made at the Exchange, and in Cheapside in London.</p>
+                        <closer>
+                           <signed>Hen. Scobell, Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON Printed by <hi>Robert Ibbitson,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proceedings">
+            <pb facs="tcp:164864:2"/>
+            <pb n="1" facs="tcp:164864:2"/>
+            <div type="day">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae 8 Jan. 1648.</date>
+                  </dateline>
+               </opener>
+               <head>At the High Court of Justice, appoin<g ref="char:EOLhyphen"/>ted by an Act of the House of Com<g ref="char:EOLhyphen"/>mons for tryal of <hi>Charles Stuart</hi> king of <hi>England,</hi> met this day in the Painted Chamber neere the Lords House at <hi>VVestminster.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>N Act of the House of Commons was brought before this High Court of Justice for Tryall of <hi>Charles Stuart</hi> King of <hi>England,</hi> by Authority whereof they met. And first cal<g ref="char:EOLhyphen"/>led over the names of the Members of this High Court, which are in number one hun<g ref="char:EOLhyphen"/>dred and fifty. There being at this time pre<g ref="char:EOLhyphen"/>sent
+<pb n="2" facs="tcp:164864:3"/> nigh one hundred of them. After which the aforesaid Act of the House of Commons in Parliament Assembled was read, giving power to the said Committee for present tri<g ref="char:EOLhyphen"/>all of the said <hi>Charles Stuart</hi> King of <hi>England,</hi> And to adjudge him according to Law, and this to be finished within one months space. But as for the time, and place, they are to adjourn from time to time as they shall see cause.</p>
+               <p>After the Commissioners were called, and the Commission read. This high Court proceeded to ele<g ref="char:EOLhyphen"/>ction of Officers, and chose them 4 Lawyers to bee assistants, 2 Clerks, 4 Messengers to send into the Country, and two Messengers to wait on them where they shall sit from time to time. And it was Ordered that all those of this high Court of justice who are in Countries shall be forthwith sent for, to joyn with them, And the Messengers to bring the positive an<g ref="char:EOLhyphen"/>swers of each of them.</p>
+               <p>The Commissioners are 150 some Members of the House of Commons, Some Officers of the Army (viz.) the Lord Gen. and cheife of his Officers, some Citizens of London, and some from all the counties of England.</p>
+               <p>Councellors assistant to this Court are 4. viz.
+<list>
+                     <item>Dr. <hi>Dorislow,</hi>
+                     </item>
+                     <item>Mr. <hi>Steele,</hi>
+                     </item>
+                     <item>Mr. <hi>Ash.</hi>
+                     </item>
+                     <item>Mr. <hi>Cooke.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Clerks chosen by the court are 2. viz.
+<pb n="3" facs="tcp:164864:3"/>
+                  <list>
+                     <item>Mr. <hi>Philps,</hi> and </item>
+                     <item>Mr. <hi>Graves.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>Messengers to attend the court are 6 whereof 4 are for sending forth abroad, and 2 to attend the sitting of the court. And they are.
+<list>
+                     <item>Mr. <hi>Walford,</hi>
+                     </item>
+                     <item>Mr. <hi>King,</hi>
+                     </item>
+                     <item>Mr. <hi>Coomes,</hi>
+                     </item>
+                     <item>Mr. <hi>Paine,</hi>
+                     </item>
+                     <item>Mr. <hi>Powell,</hi>
+                     </item>
+                     <item>Mr. <hi>Hull.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The court agreed upon a Proclamation to be pub<g ref="char:EOLhyphen"/>lished for the Kingdome to take notice of the tryall of the King, concerning which they sent to Serjeant <hi>Den<g ref="char:EOLhyphen"/>by</hi> Serjeant at Arms for publication therof according<g ref="char:EOLhyphen"/>ly as followeth.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="commission">
+                           <head>The Coppy of a Commission from the high Court of Ju<g ref="char:EOLhyphen"/>stice to Serjeant <hi>Denby</hi> Serjeant at Armes for tryall of the King.</head>
+                           <p>WEE the Commissioners whose names are hereunto subscribed, doe hereby authorize and appoint <hi>Edmond Denby</hi> Serjeant at Armes to cause this to be proclaimed, according to the tenour therof, and to make due return of the same with a precept to the said Court at the time and place therein mentioned,</p>
+                           <closer>
+                              <signed>Signed by 46. of the Commissioners of the Court in the name of all the rest.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="proclamation">
+                           <head>By the Commissioners of the High Court of Justice for the tryall of the King, by Authority of an Act of the House of Commons. A PROCLAMATION,</head>
+                           <p>BY vertue of an Act of the Commons of <hi>England</hi> assembled in Parliament, for erecting of an High Court of Justice, for the trying and judging of <hi>Charles Stuart</hi> King of <hi>England.</hi>
+                           </p>
+                           <pb n="4" facs="tcp:164864:4"/>
+                           <p>We whose Names are hereunder written, being Commis<g ref="char:EOLhyphen"/>sioners (amongst others) nominated in the said Act, doe hereby appoint, That the High Court of Justice menti<g ref="char:EOLhyphen"/>oned in the said Act shall be holden in the Painted Cham<g ref="char:EOLhyphen"/>ber in the Pallace of <hi>Westminster,</hi> on <hi>Wednesday</hi> the tenth day of this instant <hi>Ianuary,</hi> by one of the clock in the afternoon, and this we appoint to be notified by pub<g ref="char:EOLhyphen"/>like proclaiming hereof in the great Hall at Westminster to morrow being the 9. day of this instant <hi>Ianuary,</hi> be<g ref="char:EOLhyphen"/>twixt the oours of 9 and 11 in the forenoon;</p>
+                           <closer>
+                              <dateline>In testimony whereof we have hereunto set our hands seals <date>the 8. day of Ianuary, An. Dom. 1648.</date>
+                              </dateline>
+                              <signed>Signed and sealed by 46. of the Commissioners in the name of the whole Court.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <div type="day">
+               <opener>
+                  <dateline>
+                     <date>Die Martis <hi>Ianuary</hi> 9. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>This day according to the Commission aforesaid, Serjeant <hi>Dendy</hi> caused the aforesaid Proclamation to be made according to his Instructions from the Court, which was done in this manner.</p>
+               <p>Serjeant <hi>Dendy</hi> rid into Westminster Hall with the Mace belonging to the House of Commons on his shoulder, and some Officers attending him all bare: And the guard of Horse and Foot being in both the Pallaces 6. Trumpeters were sent to attend him.</p>
+               <p>The Names of the Trumpeters</p>
+               <p>Mr. <hi>Bre<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> the Lord Generals Trumpeter, and of the Lieut. Gen. Regiment Mr. <hi>Thomas Williams</hi> of Capt. <hi>Blackwels</hi> Troop; and Mr. <hi>Henry Bulkley,</hi> and <hi>Mr O<g ref="char:EOLhyphen"/>liver Holms</hi> belonging to Capt. <hi>Ainrers</hi> troop, and <hi>Mr Robert Hadrey,</hi> and <hi>Mr John Reynolds</hi> of Capt.
+<pb n="5" facs="tcp:164864:4"/>
+                  <hi>Canons</hi> Troop of Collonel <hi>Whalies</hi> Regiment.</p>
+               <p>These 6 Trumpeters sounded on horsebacke in the middle of Westminster hall, and the mean time the Drums did beat in the Pallace yard, after which Pro<g ref="char:EOLhyphen"/>clamation was made.</p>
+               <p>The aforesaid Proclamation was read by Mr. <hi>King</hi> one of the Messengers of the High Court of Iustice.</p>
+               <p>After publick Proclamation made in Westminster hall, The House of Commons ordered that the like should be done in the city of London, according to an order of the House here unto annexed, which ac<g ref="char:EOLhyphen"/>cordingly was done in this manner.</p>
+               <p>First Serjeant <hi>Dendy</hi> rid with his attendance And a Troope of Horse before him, with the Mace of the House of Commons, on his shoulder, and proclaim<g ref="char:EOLhyphen"/>ed it in Cornwall against the Exchange, and after<g ref="char:EOLhyphen"/>wards in the middle of Cheape side in London.</p>
+               <p>It was read and published by Lieutenant <hi>Chellington</hi> and Mr. <hi>King</hi> the aforesaid messenger, in the presence and by order of Serjeant <hi>Denby,</hi> in Cornewall be<g ref="char:EOLhyphen"/>fore the Exchange, and by Mr. <hi>Chellington,</hi> in the presence and by the command of the said Serieant <hi>Dendy</hi> in Cheape side according to the order of the House of Commons, herewith annexed.</p>
+               <p>The aforesaid painted Chamber which is appointed for the place for the high Court of Justice to sit, is nere unto the House where the Lords sit.</p>
+               <p>Here followeth an Act Ordered by the House of Commons for publishing the a<g ref="char:EOLhyphen"/>foresaid
+<pb n="6" facs="tcp:164864:5"/> Proclamation in <hi>London</hi> at the seve<g ref="char:EOLhyphen"/>rall places aforesaid.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="act">
+                           <head>An Act of the Commons of England in Parliament assembled for pub<g ref="char:EOLhyphen"/>lishing a Proclamation in <hi>London</hi> for the tryall of the <hi>KING.</hi>
+                           </head>
+                           <opener>
+                              <dateline>
+                                 <date>Die Martis 9 Janua. 1648.</date>
+                              </dateline>
+                           </opener>
+                           <p>ORdered by the Commons assembled in Parlia<g ref="char:EOLhyphen"/>ment, That the same Proclamation that was made this morning in <hi>Westminster Hall</hi> touching the Tryall of the King, bee made at the <hi>Old Ex<g ref="char:EOLhyphen"/>change,</hi> and in <hi>Cheapside,</hi> forthwith, and in the same manner. And that Serjeant <hi>Denby,</hi> the Ser<g ref="char:EOLhyphen"/>jeant at Armes doe proclaime the same accordingly: And that the Guard that lyeth in <hi>Pauls</hi> doe see the same done.</p>
+                           <closer>
+                              <signed>Hen. Scobell Cler. Parl. Dom. Com.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
